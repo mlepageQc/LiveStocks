@@ -5,7 +5,8 @@ import App from './components/app'
 Vue.use(VueRouter)
 
 const routes = [
-  { path: '/',
+  {
+    path: '/',
     name: 'app',
     component: App
   }
