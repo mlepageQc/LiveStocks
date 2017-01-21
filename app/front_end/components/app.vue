@@ -1,6 +1,6 @@
 <template>
   <div>
-    gggg
+    Salut enfoiré merde
   </div>
 </template>
 

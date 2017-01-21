@@ -5,4 +5,3 @@ every 15.minutes do
 end
 
 # Symbols details
-every
