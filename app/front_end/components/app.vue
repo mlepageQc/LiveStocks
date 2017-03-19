@@ -9,11 +9,7 @@
   export default {
     name: 'app',
     created () {
-    },
-    computed: {
-      router () {
-        return this.$router
-      }
+      console.log('Application created')
     }
   }
 </script>
